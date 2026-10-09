@@ -35,8 +35,7 @@ cldcli init myapp --lang go
 myapp/
 ├── src/
 │   ├── main.go          # код приложения
-│   ├── index.css        # стили
-│   └── coldos.d.ts      # декларации ColdOS API
+│   └── index.css        # стили
 ├── assets/              # иконки
 ├── package.json
 └── README.md
