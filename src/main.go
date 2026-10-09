@@ -5,7 +5,7 @@ package main
 // Поддерживается подмножество Go: func, :=, map[string]interface{}{},
 // fmt.Sprintf, fmt.Println, if/else и вызовы глобальных функций ColdOS.
 
-func user_run_application__APP_ID__() {
+func __ENTRY_FN__() {
 	id_app := "__APP_ID__"
 	height := "600"
 	width := "800"
